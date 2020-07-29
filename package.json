@@ -1,0 +1,18 @@
+{
+  "name": "glassy-calculator",
+  "version": "0.0.1",
+  "description": "A Glassy Calculator for you fav OS!",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "git@github.com:Lunchb0ne/Glassy-Calculator.git",
+  "author": "Abhishek Aryan <abhishek.rbg@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "glasstron": "github:AryToNeX/Glasstron#master"
+  },
+  "devDependencies": {
+    "electron": "^10.0.0-beta.14"
+  }
+}
